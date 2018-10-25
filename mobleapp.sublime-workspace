@@ -1,0 +1,1155 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dis",
+				"display"
+			],
+			[
+				"file",
+				"fileUpload"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"st",
+				"stylus"
+			],
+			[
+				"impor",
+				"important"
+			],
+			[
+				"jq",
+				"jquery"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"ex",
+				"extend"
+			],
+			[
+				"p",
+				"parent"
+			],
+			[
+				"inner",
+				"innerHTML"
+			],
+			[
+				"cle",
+				"clean"
+			],
+			[
+				"remove",
+				"removePerson"
+			],
+			[
+				"data",
+				"data-bind"
+			],
+			[
+				"list",
+				"list2"
+			],
+			[
+				"boo",
+				"bool"
+			],
+			[
+				"arr",
+				"arr"
+			],
+			[
+				"y",
+				"ylen"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"dee",
+				"deepClone"
+			],
+			[
+				"obj",
+				"obj2"
+			],
+			[
+				"config",
+				"configurable"
+			],
+			[
+				"n",
+				"noop"
+			],
+			[
+				"im",
+				"images"
+			],
+			[
+				"cont",
+				"contact"
+			],
+			[
+				"con",
+				"contact"
+			],
+			[
+				"E",
+				"EventEmitter"
+			],
+			[
+				"ev",
+				"eventEmitter"
+			],
+			[
+				"w",
+				"wrapper"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"disk",
+				"disk_total_space"
+			],
+			[
+				"ar",
+				"array1"
+			],
+			[
+				"array_un",
+				"array_unshift"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"parse",
+				"parse_url"
+			],
+			[
+				"strnatc",
+				"strnatcmp"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"co",
+				"componentDidMount"
+			],
+			[
+				"r",
+				"return"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"Co",
+				"Component"
+			],
+			[
+				"get",
+				"getDate"
+			],
+			[
+				"exp",
+				"export"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fn",
+				"fn"
+			],
+			[
+				"pa",
+				"param"
+			],
+			[
+				"星期",
+				"星期二"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"my",
+				"mysql_query"
+			],
+			[
+				"_",
+				"_FILES"
+			],
+			[
+				"fi",
+				"file"
+			],
+			[
+				"include",
+				"include_once"
+			],
+			[
+				"sql",
+				"sqls"
+			],
+			[
+				"s",
+				"sqls"
+			],
+			[
+				"chk",
+				"chkdown"
+			],
+			[
+				"hea",
+				"header"
+			],
+			[
+				"fo",
+				"foreach\tforeach …"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"db",
+				"db"
+			],
+			[
+				"row",
+				"row"
+			],
+			[
+				"echo",
+				"echo"
+			],
+			[
+				"ech",
+				"echo"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"res",
+				"responseMsg"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"we",
+				"wechartObj"
+			],
+			[
+				"to",
+				"toUsername"
+			],
+			[
+				"C",
+				"CreateTime"
+			],
+			[
+				"T",
+				"ToUserName"
+			],
+			[
+				"post",
+				"postObj"
+			],
+			[
+				"check",
+				"checkSignature"
+			],
+			[
+				"ec",
+				"echoStr"
+			],
+			[
+				"tmp",
+				"tmpStr"
+			],
+			[
+				"array",
+				"array"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/views/Home.vue",
+			"settings":
+			{
+				"buffer_size": 2615,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/views/Upload.vue",
+			"settings":
+			{
+				"buffer_size": 1244,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/sublime Text3/Sublime Text3/Data/Packages/Default/Preferences.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 16213,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/views/Music.vue",
+			"settings":
+			{
+				"buffer_size": 1367,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "Music.vue"
+			}
+		},
+		{
+			"contents": "<template>\n  <div id=\"app\">\n    <router-view/>\n  </div>\n</template>\n<style lang=\"stylus\">\n  \n</style>\n",
+			"file": "src/App.vue",
+			"file_size": 102,
+			"file_write_time": 131843263899181482,
+			"settings":
+			{
+				"buffer_size": 102,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main.js",
+			"settings":
+			{
+				"buffer_size": 471,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/router.js",
+			"settings":
+			{
+				"buffer_size": 1131,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/views/Index.vue",
+			"settings":
+			{
+				"buffer_size": 4391,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/views/Me.vue",
+			"settings":
+			{
+				"buffer_size": 3416,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "Me.vue"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 210.0,
+		"last_filter": "setting",
+		"selected_items":
+		[
+			[
+				"setting",
+				"Preferences: Settings - Default"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"settings",
+				"Preferences: Settings - Default"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pic",
+				"Package Control: Install Package→安装插件"
+			],
+			[
+				"svn",
+				"TortoiseSVN: Log"
+			],
+			[
+				"x",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"i",
+				"Package Control: Install Package→安装插件"
+			]
+		],
+		"width": 402.0
+	},
+	"console":
+	{
+		"height": 336.0,
+		"history":
+		[
+			"f:",
+			"cd ..",
+			"console.log(213)",
+			"sdf",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/'  + pf.replace(' ',' ')).read())",
+			"{import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/'  + pf.replace(' ',' ')).read())}",
+			"{",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/vue/mobleapp",
+		"/E/vue/mobleapp/public",
+		"/E/vue/mobleapp/public/img",
+		"/E/vue/mobleapp/src",
+		"/E/vue/mobleapp/src/assets",
+		"/E/vue/mobleapp/src/views"
+	],
+	"file_history":
+	[
+		"/E/vue/mobleapp/public/index.html",
+		"/E/vue/mobleapp/package.json",
+		"/E/vue/mobleapp/vue.config.js",
+		"/E/vue/mobleapp/node_modules/register-service-worker/index.js",
+		"/E/vue/mobleapp/src/components/HelloWorld.vue",
+		"/E/vue/mobleapp/mobleapp.sublime-project",
+		"/E/vue/mobleapp/src/registerServiceWorker.js",
+		"/E/vue/mobleapp/src/views/About.vue",
+		"/C/Users/Administrator/Desktop/新建文本文档 (2).txt",
+		"/C/Users/Administrator/Documents/WeChat Files/huixiaozi007/Files/历史价格匹配提交传参格式.txt",
+		"/C/Users/Administrator/Documents/WeChat Files/huixiaozi007/Files/普通合同历史价格匹配格式.txt",
+		"/E/vue/mobleapp/node_modules/@vue/cli-service/webpack.config.js",
+		"/D/sublime Text3/Sublime Text3/Data/Packages/User/SublimeServer.sublime-settings",
+		"/D/sublime Text3/Sublime Text3/Data/Installed Packages/Package Control.sublime-package",
+		"/D/sublime Text3/Sublime Text3/Data/Packages/Default/Preferences.sublime-settings",
+		"/E/vue/mobleapp/babel.config.js",
+		"/C/Users/Administrator/Desktop/Vue/js/get.js",
+		"/C/Users/Administrator/Desktop/Vue/js/ko.js",
+		"/C/Users/Administrator/Desktop/Vue/index.css",
+		"/E/xampp/htdocs/test.php",
+		"/C/Users/Administrator/Desktop/Vue/index.html",
+		"/D/next/pages/head.js",
+		"/D/sublime Text3/Sublime Text3/Data/Packages/User/PHP.sublime-build",
+		"/E/vue/nuxt/nuxt_demo/pages/index.vue",
+		"/C/Users/Administrator/Desktop/Vue/one.js",
+		"/C/Users/Administrator/Desktop/Vue/index.js",
+		"/E/vue/nuxt/nuxt_demo/pages/about.vue",
+		"/E/vue/nuxt/nuxt_demo/layouts/default.vue",
+		"/E/vue/nuxt/nuxt_demo/nuxt.config.js",
+		"/D/next/pages/inde.js",
+		"/E/vue/nuxt/nuxt_demo/components/AppLogo.vue",
+		"/E/knockjs/knockjs/src/app.js",
+		"/C/Users/Administrator/Desktop/Vue/main.js",
+		"/C/Users/Administrator/Desktop/05/index.html",
+		"/D/next/package.json",
+		"/C/Users/Administrator/Desktop/05/vue/dist/vue.js",
+		"/E/nodejs-puppeteer/index.js",
+		"/C/Users/Administrator/Desktop/Vue/dist/10cab401c43e46e6cfe4.index.js",
+		"/C/Users/Administrator/Desktop/Vue/dist/2d4ef5a2073ce9409dbf.index.js",
+		"/C/Users/Administrator/Desktop/Vue/dist/c00fac2d12e67171e525.index.js",
+		"/C/Users/Administrator/Desktop/Vue/dist/cd06cbae559b1ebe09b4.jquery.js",
+		"/C/Users/Administrator/Desktop/Vue/dist/33eac553e7d5fc67ba3b.jquery.js",
+		"/C/Users/Administrator/Desktop/Vue/dist/d0f4358f5dd8f5568751.index.js",
+		"/C/Users/Administrator/Desktop/Vue/dist/ad2e8824d9516c41d73c.vendor.js",
+		"/C/Users/Administrator/Desktop/Vue/dist/15aa4f032129548f7738.jquery.js",
+		"/C/Users/Administrator/Desktop/Vue/dist/bundle.js",
+		"/C/Users/Administrator/Desktop/Vue/dist/c753f315fbd89f5f808c.index.js",
+		"/C/Users/Administrator/Desktop/Vue/dist/64e5d498c2a290270ff4.index.js",
+		"/C/Users/Administrator/Desktop/Vue/dist/2440d3a8891acb4437e0.index.js",
+		"/C/Users/Administrator/Desktop/Vue/dist/e2d06a71dc09ad0a8780.index.js",
+		"/C/Users/Administrator/Desktop/Vue/dist/30a5b6045e69b06ab258.vendor.js",
+		"/C/Users/Administrator/Desktop/Vue/dist/eb37660f94d6ec7f8e8b.vendor.js",
+		"/C/Users/Administrator/Desktop/Vue/dist/ce29685038a19d05b642.index.js",
+		"/C/Users/Administrator/Desktop/Vue/dist/b2841ac222d36f538c41.vendor.js",
+		"/C/Users/Administrator/Desktop/Vue/vue.js",
+		"/C/Users/Administrator/Desktop/Vue/one.js",
+		"/C/Users/Administrator/Desktop/Vue/js/index.js",
+		"/E/webpack-study/src/index.js",
+		"/C/Users/Administrator/Desktop/study.html",
+		"/E/knockjs/knockjs/package.json",
+		"/E/knockjs/knockjs/src/index.html",
+		"/E/knockjs/knockjs/src/configs/views.js",
+		"/E/knockjs/knockjs/src/pages/list/index.js",
+		"/E/knockjs/knockjs/src/base/baseview.js",
+		"/E/knockjs/knockjs/src/pages/index/index.js",
+		"/E/knockjs/knockjs/src/pages/index/index.html",
+		"/E/knockjs/knockjs/src/router.js",
+		"/E/knockjs/knockjs/config/webpack.dev.config.js",
+		"/E/knockjs/knockjs/yarn.lock",
+		"/E/knockjs/knockjs/config/webpack.base.config.js",
+		"/E/webpack-study/package.json",
+		"/E/webpack-study/index.html",
+		"/E/webpack-study/build/webpack.pro.conf.js",
+		"/F/study/webpack-study/package.json",
+		"/F/study/webpack-study/src/index.js",
+		"/F/study/webpack-study/index.html",
+		"/F/study/webpack-study/webpack.pro.conf.js",
+		"/F/study/webpack-study/src",
+		"/C/Users/Administrator/Desktop/05/vue/vue.js",
+		"/C/Users/Administrator/Desktop/05/vue/index.html",
+		"/C/Users/Administrator/Desktop/Vue/node_modules/vue/package.json",
+		"/C/Users/Administrator/Desktop/Vue/package-lock.json",
+		"/C/Users/Administrator/Desktop/Vue/node_modules/vue/types/vue.d.ts",
+		"/F/express/website/app.js",
+		"/F/express/myapp/views/head.hbs",
+		"/F/express/myapp/app.js",
+		"/F/express/myapp/routes/upload.js",
+		"/F/express/myapp/views/error.hbs",
+		"/F/express/app/package.json",
+		"/F/express/website/package.json",
+		"/F/express/wz/index.html",
+		"/F/express/myapp/routes../about.js",
+		"/F/express/myapp/views/upload.hbs",
+		"/F/express/myapp/routes/blog.js",
+		"/F/cpts_752_bez/contact.html",
+		"/F/express/myapp/views/layout.hbs",
+		"/F/express/myapp/views/about.hbs",
+		"/F/express/myapp/routes/index.js",
+		"/F/express/myapp/views/contact.hbs",
+		"/F/express/myapp/routes/about.js",
+		"/F/express/myapp/routes/contact.js",
+		"/F/express/myapp/routes/users.js",
+		"/F/express/app/undefinedImg268340468.jpg",
+		"/F/express/app/routes../public/images/151cfc97f4d4732e15e6ee482edbf4da",
+		"/F/express/app/views/head.hbs",
+		"/F/cpts_752_bez/index.html",
+		"/F/cpts_752_bez/archive.html",
+		"/F/express/app/views/blog.hbs",
+		"/F/express/app/views/home.hbs",
+		"/F/cpts_752_bez/single.html",
+		"/F/express/app/views/partial.hbs",
+		"/F/express/app/routes/contact.js",
+		"/F/express/app/routes/index.js",
+		"/F/cpts_752_bez/js/html5.js",
+		"/F/cpts_752_bez/js/script.js",
+		"/F/cpts_752_bez/js/css3-mediaqueries.js",
+		"/F/cpts_752_bez/js/responsiveslides.min.js",
+		"/F/cpts_752_bez/js/jquery183.min.js",
+		"/F/cpts_752_bez/js/jquery-latest.min.js",
+		"/F/express/app/public/stylesheets/style.css",
+		"/F/express/app/public/stylesheets/index.css",
+		"/F/express/app/views/error.hbs",
+		"/F/express/app/public/javascripts/style.js",
+		"/F/express/app/routes/users.js",
+		"/F/express/app/public/javascripts/index.js",
+		"/F/express/app/app.sublime-project",
+		"/E/react/react/reactjs/src/App.css",
+		"/E/react/react/reactjs/src/App.js"
+	],
+	"find":
+	{
+		"height": 45.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"music",
+			"video-player-box",
+			"demo-list-wrap",
+			"demandCount",
+			"sortItemMap",
+			"de",
+			"null",
+			"brief",
+			"briefAgreementList",
+			"onPlayerLoadeddata",
+			"stylus",
+			"makeModuleMap",
+			"context",
+			"req.s",
+			"newContext",
+			"makeRequire",
+			"localRequire",
+			"require",
+			"configure",
+			"}\n",
+			"define",
+			"requirejs",
+			"IE",
+			"getOwn",
+			"defContextName",
+			"contextName",
+			"contexts",
+			"require",
+			"config",
+			"Favor",
+			"defQueue",
+			"define",
+			"defind",
+			"text",
+			"input",
+			"keydown",
+			"onCompositionStart",
+			"oninput",
+			"onpropertychange",
+			"input",
+			"onCompositionEnd",
+			"addEventListener",
+			"Event",
+			"withMacroTask",
+			"add$",
+			"invoker",
+			"createFnInvoker",
+			"add$1",
+			"add$",
+			"add",
+			"updateListeners",
+			"add$1",
+			"add$",
+			"add",
+			"withMacroTask",
+			"add$",
+			"createFnInvoker",
+			"updateListeners",
+			"add$1",
+			"add$",
+			"123",
+			"console.log",
+			"123",
+			"num",
+			"createPatchFunction",
+			"patch",
+			"__patch",
+			"nodeOps",
+			"patch",
+			"__patch__",
+			"_update",
+			"updateComponent",
+			"VNode",
+			"createEmptyVNode",
+			"mountComponent",
+			"$mount",
+			"vm.$mo",
+			"_mou",
+			"_mo",
+			"_mounte",
+			"_mounted",
+			"updateDirectives",
+			"_update",
+			"Compile",
+			"new Compile",
+			"$fragment",
+			"node2",
+			"function Compile",
+			"Compile",
+			"debugger",
+			"isNative",
+			"flushCallbacks",
+			"macroTimerFunc",
+			"useMacroTask",
+			"macroTimerFunc",
+			"flushCallbacks",
+			"flushSchedulerQueue",
+			"nextTick",
+			"flushSchedulerQueue",
+			"queueWatcher",
+			"Watcher",
+			"update",
+			"notify",
+			"observeArray",
+			"defineReactive",
+			"Observer",
+			"Observe",
+			"initData",
+			"callbacks",
+			"Watcher",
+			"$watch",
+			"initWatch",
+			"update",
+			"queueWatcher",
+			"nextTick",
+			"$nextTick",
+			"nextTick",
+			"flushCallbacks",
+			"initWatch",
+			"debugger",
+			"debugger;",
+			"computedWatcherOptions",
+			"initComputed",
+			"vm._data",
+			"initData",
+			"initState",
+			"initState\n",
+			"_init"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"javascripts",
+			"\"javascript",
+			"\"stylesheets"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/views/Home.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2615,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								549,
+								549
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Vuejs Complete Package/vue.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/views/Upload.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1244,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1096,
+								1096
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Vuejs Complete Package/vue.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1053.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/D/sublime Text3/Sublime Text3/Data/Packages/Default/Preferences.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16213,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1745,
+								1745
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 972.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/views/Music.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1367,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								453,
+								453
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Music.vue",
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Vuejs Complete Package/vue.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 81.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/App.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 102,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								32,
+								46
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Vuejs Complete Package/vue.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 471,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								330,
+								330
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/router.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1131,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								253,
+								253
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/views/Index.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4391,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Vuejs Complete Package/vue.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "src/views/Me.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3416,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Me.vue",
+							"syntax": "Packages/Vuejs Complete Package/vue.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 299.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/PHP.sublime-build",
+	"project": "mobleapp.sublime-project",
+	"replace":
+	{
+		"height": 82.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 317.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

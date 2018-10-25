@@ -1,9 +1,26 @@
-# mobileapp
-移动端网页app
+# mobleapp
 
-技术栈 vue+muse-ui+stylus+vue-router+laravel
+## Project setup
+```
+npm install
+```
 
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-实现功能：视频 音频 地图 
+### Compiles and minifies for production
+```
+npm run build
+```
 
+### Run your tests
+```
+npm run test
+```
 
+### Lints and fixes files
+```
+npm run lint
+```
