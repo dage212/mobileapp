@@ -1,4 +1,6 @@
-# mobileapp是一个网页版app,可以看视频，听歌，百度地图
+# mobileapp
+
+一个网页版app,可以看视频，听歌，百度地图
 
 技术栈 vue+museui+vue+router+laravel
 
